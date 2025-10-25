@@ -1,0 +1,80 @@
+{
+  "Free Express Shipping": "Free Express Shipping",
+  "HOT": "HOT",
+  "E-commerce": "E-commerce",
+  "Search…": "Search…",
+  "Designed and developed by":"Designed and developed by",
+  "Reda Salem": "Reda Salem",
+  "categories": {
+    "all": "All Categories",
+    "car": "Car",
+    "clothes": "Clothes",
+    "electronics": "Electronics"
+  }
+  ,
+  "header3": {
+    "categories_button": "Categories",
+    "menu": {
+      "bikes": "Bikes",
+      "electric": "Electric",
+      "books": "Books",
+      "games": "Games"
+    },
+    "links": {
+      "home": "Home",
+      "mega_menu": "Mega menu",
+      "full_screen_menu": "Full screen menu",
+      "pages": "Pages",
+      "user_account": "User account",
+      "vendor_account": "Vendor account",
+      "dropdown": {
+        "dashboard": "Dashboard",
+        "products": "Products",
+        "add_product": "Add product",
+        "edit_product": "Edit product",
+        "orders": "Orders",
+        "profile": "Profile"
+      }
+    },
+    "sublinks": {
+      "link1": "link1",
+      "link2": "link2",
+      "link3": "link3"
+    }
+  }
+  ,
+  "hero": {
+    "slider": {
+      "lifestyle_collection": "LIFESTYLE COLLECTION",
+      "men": "MEN",
+      "women": "WOMEN",
+      "sale_up": "SALE UP TO",
+      "percent_off": "30% OFF",
+      "free_shipping": "Get Free Shipping on orders over $99.00",
+      "cta": "Shop now"
+    },
+    "side1": {
+      "new_arrivals": "New ARRIVALS",
+      "summer": "SUMMER",
+      "sale20": "SALE 20% OFF",
+      "shop_now": "Shop now"
+    },
+    "side2": {
+      "exclusive_deals": "Exclusive DEALS",
+      "winter": "WINTER",
+      "save50": "SAVE UP TO 50%",
+      "discover_now": "Discover now"
+    }
+  }
+  ,
+  "hero_iconSection": {
+    "speed": "Speed",
+    "speed_sub": "Fast and efficient",
+    "professionalism": "Professionalism",
+    "professionalism_sub": "High standards",
+    "punctuality": "Punctuality",
+    "punctuality_sub": "We respect deadlines",
+    "trust": "Trust",
+    "trust_sub": "Guaranteed results"
+  }
+}

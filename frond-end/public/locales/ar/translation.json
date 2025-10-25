@@ -1,0 +1,80 @@
+{
+   "Free Express Shipping" :"شحن سريع مجانى",
+   "HOT": "حار",
+   "E-commerce":"متجر الكترونى",
+   "Search…": "بحث…",
+   "Designed and developed by":"صمم و طور عن طريق",
+  "Reda Salem": "رضا سالم",
+   "categories": {
+     "all": "كل الفئات",
+     "car": "سيارات",
+     "clothes": "ملابس",
+     "electronics": "إلكترونيات"
+   }
+  ,
+  "header3": {
+    "categories_button": "الفئات",
+    "menu": {
+      "bikes": "دراجات",
+      "electric": "كهربائى",
+      "books": "كتب",
+      "games": "ألعاب"
+    },
+    "links": {
+      "home": "الرئيسية",
+      "mega_menu": "قائمة ضخمة",
+      "full_screen_menu": "قائمة ملء الشاشة",
+      "pages": "الصفحات",
+      "user_account": "حساب المستخدم",
+      "vendor_account": "حساب البائع",
+      "dropdown": {
+        "dashboard": "لوحة التحكم",
+        "products": "المنتجات",
+        "add_product": "إضافة منتج",
+        "edit_product": "تعديل المنتج",
+        "orders": "الطلبات",
+        "profile": "الملف الشخصي"
+      }
+    },
+    "sublinks": {
+      "link1": "رابط1",
+      "link2": "رابط2",
+      "link3": "رابط3"
+    }
+  }
+  ,
+  "hero": {
+    "slider": {
+      "lifestyle_collection": "مجموعة أسلوب الحياة",
+      "men": "رجالي",
+      "women": "نسائي",
+      "sale_up": "تخفيضات حتى",
+      "percent_off": "خصم 30%",
+      "free_shipping": "شحن مجاني على الطلبات أكثر من $99.00",
+      "cta": "تسوق الآن"
+    },
+    "side1": {
+      "new_arrivals": "وصول جديد",
+      "summer": "صيف",
+      "sale20": "تخفيض 20%",
+      "shop_now": "تسوق الآن"
+    },
+    "side2": {
+      "exclusive_deals": "عروض حصرية",
+      "winter": "شتاء",
+      "save50": "وفر حتى 50%",
+      "discover_now": "اكتشف الآن"
+    }
+  }
+  ,
+  "hero_iconSection": {
+    "speed": "السرعة",
+    "speed_sub": "سريع وفعال",
+    "professionalism": "الاحترافية",
+    "professionalism_sub": "معايير عالية",
+    "punctuality": "الدقة في المواعيد",
+    "punctuality_sub": "نحترم المواعيد النهائية",
+    "trust": "الثقة",
+    "trust_sub": "نتائج مضمونة"
+  }
+}
